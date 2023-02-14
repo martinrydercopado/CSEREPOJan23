@@ -5,7 +5,7 @@
     <fieldName>StageName</fieldName>
     <masterLabel>TestingPath</masterLabel>
     <pathAssistantSteps>
-        <info>&lt;p&gt;&lt;img src=&quot;https://copado-11d--dev1.sandbox.file.force.com/servlet/rtaImage?eid=1CFDL000000L1cy&amp;amp;feoid=Info&amp;amp;refid=0EMDL000000wms5&quot;&gt;&lt;/img&gt;&lt;/p&gt;</info>
+        <info>&lt;p&gt;&lt;img src=&quot;/img/rte_broken_image.png&quot; alt=&quot;This image is not available because: You don’t have the privileges to see it, or it has been removed from the system&quot;&gt;&lt;/img&gt;&lt;/p&gt;</info>
         <picklistValueName>Needs Analysis</picklistValueName>
     </pathAssistantSteps>
     <pathAssistantSteps>

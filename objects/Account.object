@@ -323,7 +323,7 @@
                 <value>
                     <fullName>Value_6</fullName>
                     <default>false</default>
-                    <label>Value_6</label>
+                    <label>Value_6_renamed</label>
                 </value>
                 <value>
                     <fullName>Value_1</fullName>

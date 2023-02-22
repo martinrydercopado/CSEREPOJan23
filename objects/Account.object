@@ -301,11 +301,6 @@
             <valueSetDefinition>
                 <sorted>false</sorted>
                 <value>
-                    <fullName>Value_1</fullName>
-                    <default>false</default>
-                    <label>Value_1</label>
-                </value>
-                <value>
                     <fullName>Value_2</fullName>
                     <default>false</default>
                     <label>Value_2</label>
@@ -318,20 +313,23 @@
                 <value>
                     <fullName>Value_4</fullName>
                     <default>false</default>
-                    <isActive>false</isActive>
                     <label>Value_4</label>
                 </value>
                 <value>
                     <fullName>Value_5</fullName>
                     <default>false</default>
-                    <isActive>false</isActive>
                     <label>Value_5</label>
                 </value>
                 <value>
                     <fullName>Value_6</fullName>
                     <default>false</default>
-                    <isActive>false</isActive>
                     <label>Value_6</label>
+                </value>
+                <value>
+                    <fullName>Value_1</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Value_1</label>
                 </value>
                 <value>
                     <fullName>Value_7</fullName>

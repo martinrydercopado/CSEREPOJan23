@@ -171,10 +171,6 @@
         <visible>false</visible>
     </applicationVisibilities>
     <classAccesses>
-        <apexClass>AccountOperations</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>AccountOperationsTest</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -10526,6 +10522,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.Probability</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Testing_Included__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

@@ -327,6 +327,15 @@
     <enableHistory>false</enableHistory>
     <externalSharingModel>ControlledByParent</externalSharingModel>
     <fields>
+        <fullName>A_really_big_RTF_field__c</fullName>
+        <externalId>false</externalId>
+        <label>A really big RTF field</label>
+        <length>10001</length>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Html</type>
+        <visibleLines>25</visibleLines>
+    </fields>
+    <fields>
         <fullName>AccountId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <type>Lookup</type>
@@ -475,6 +484,41 @@
         <trackFeedHistory>false</trackFeedHistory>
         <type>Text</type>
         <unique>false</unique>
+    </fields>
+    <fields>
+        <fullName>Sorry_Steve_Mo__c</fullName>
+        <externalId>false</externalId>
+        <label>Sorry Steve Mo</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>MultiselectPicklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Hi</fullName>
+                    <default>false</default>
+                    <label>Hi</label>
+                </value>
+                <value>
+                    <fullName>Hi there</fullName>
+                    <default>false</default>
+                    <label>Hi there</label>
+                </value>
+                <value>
+                    <fullName>Hey</fullName>
+                    <default>false</default>
+                    <label>Hey</label>
+                </value>
+                <value>
+                    <fullName>Hello</fullName>
+                    <default>false</default>
+                    <label>Hello</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+        <visibleLines>4</visibleLines>
     </fields>
     <fields>
         <fullName>Title</fullName>

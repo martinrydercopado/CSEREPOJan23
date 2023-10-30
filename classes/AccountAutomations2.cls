@@ -1,4 +1,4 @@
-#Replaced PMD suppression
+@SuppressWarnings('PMD')
 public class AccountAutomations2 {
     Public static Account setDefaultDescription(Account a){
         If (a.Description != null) return a;

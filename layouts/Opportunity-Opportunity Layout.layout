@@ -33,7 +33,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Opp_Text_01__c</field>
+                <field>Opp_Text_02__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

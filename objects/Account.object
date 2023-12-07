@@ -310,6 +310,41 @@
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
     <fields>
+        <fullName>PicklistA__c</fullName>
+        <externalId>false</externalId>
+        <label>PicklistA</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Picklist</type>
+        <valueSet>
+            <restricted>true</restricted>
+            <valueSetDefinition>
+                <sorted>false</sorted>
+                <value>
+                    <fullName>Value_1</fullName>
+                    <default>false</default>
+                    <label>Value_1</label>
+                </value>
+                <value>
+                    <fullName>Value_2</fullName>
+                    <default>false</default>
+                    <label>Value_2</label>
+                </value>
+                <value>
+                    <fullName>Value_3</fullName>
+                    <default>false</default>
+                    <label>Value_3</label>
+                </value>
+                <value>
+                    <fullName>Value_4</fullName>
+                    <default>false</default>
+                    <isActive>false</isActive>
+                    <label>Value_4</label>
+                </value>
+            </valueSetDefinition>
+        </valueSet>
+    </fields>
+    <fields>
         <fullName>Rating</fullName>
         <trackFeedHistory>false</trackFeedHistory>
         <type>Picklist</type>

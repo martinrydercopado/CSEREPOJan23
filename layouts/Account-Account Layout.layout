@@ -21,11 +21,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Dummy_Field_01__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>Dummy_Field_02__c</field>
+                <field>PicklistA__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

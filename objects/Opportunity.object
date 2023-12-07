@@ -156,6 +156,15 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>At_Risk__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <label>At Risk</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
+    </fields>
+    <fields>
         <fullName>Buyer_Budget_Verified__c</fullName>
         <defaultValue>true</defaultValue>
         <externalId>false</externalId>
@@ -277,6 +286,16 @@
         <trackFeedHistory>true</trackFeedHistory>
         <trackTrending>false</trackTrending>
         <type>Picklist</type>
+    </fields>
+    <fields>
+        <fullName>Testing_Included__c</fullName>
+        <defaultValue>false</defaultValue>
+        <externalId>false</externalId>
+        <inlineHelpText>Does this opportunity include any of our testing products?</inlineHelpText>
+        <label>Testing Included</label>
+        <trackFeedHistory>false</trackFeedHistory>
+        <trackTrending>false</trackTrending>
+        <type>Checkbox</type>
     </fields>
     <fields>
         <fullName>TotalOpportunityQuantity</fullName>

@@ -8728,6 +8728,11 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
+        <editable>true</editable>
+        <field>Account.PicklistA__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
         <editable>false</editable>
         <field>Account.Rating</field>
         <readable>false</readable>
@@ -9389,6 +9394,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>Contact.A_really_big_RTF_field__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>Contact.AccountId</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -9495,6 +9505,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Contact.ReportsToId</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Contact.Sorry_Steve_Mo__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -10545,6 +10560,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>Opportunity.Probability</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Opportunity.Testing_Included__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
